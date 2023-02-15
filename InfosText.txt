@@ -1,0 +1,19 @@
+External_PortNumber 0
+Internal_PortNumber 6500
+A1 F35B#1 45
+A2 F35B#2 45
+A3 F35B#3 45
+A4 F35B#4 45
+TowbarTractor 2
+RedGroup 3
+BrownGroup 4
+PurpleGroup 3
+GreenGroup 3
+H1 F35B#5
+H2 F35B#6
+H3 F35B#7
+H4 F35B#8
+TowbarlessTractor 3
+Hangar_GreenGroup 3
+D1_EV 1.5
+D2_EV 1.5
